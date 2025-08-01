@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=satnam72&rank_icon=github&hide=stars,contribs&show=prs_merged,prs_merged_percentage&custom_title=Activity+Insights&card_width=400" />
   </a>
   <a href="https://github.com/satnam72">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satnam72&card_width=400" />
+    <img src="https://streak-stats.vercel.app/?user=satnam72&card_width=400" />
   </a>
 </p>
 
