@@ -23,15 +23,12 @@ Here are some ideas to get you started:
  
 <p align="center">
   <a href="https://github.com/satnam72">
-    <img src="https://github-readme-stats.vercel.app/api?username=satnam72&rank_icon=github&hide=stars,contribs&show=prs_merged,prs_merged_percentage&custom_title=Activity+Insights&card_width=400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=satnam72&rank_icon=github&hide=stars&show=prs_merged&custom_title=Activity+Insights"/>
   </a>
   <a href="https://github.com/satnam72">
-    <img src="https://streak-stats.vercel.app/?user=satnam72&card_width=400" />
+    <img src="https://streak-stats.vercel.app/?user=satnam72&card_width=450"/>
   </a>
 </p>
-
-
-
 
 
 
