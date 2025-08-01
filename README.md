@@ -2,8 +2,11 @@
 
 ## Hi there 👋
 
-🎯I’m a tech enthusiast who’s really into automation, system configuration, cloud computing, and web development. I love building tools that solve real-world problems and enjoy learning new things across different tech stacks and platforms. For me, there’s nothing better than diving into a challenge, figuring out how to make things work more smoothly, and constantly improving my skills along the way. I’m always curious about new technologies and enjoy finding practical ways to make workflows faster and easier. Staying adaptable and open to learning keeps me excited about the future of tech.
+ I'm a passionate tech enthusiast with a strong focus on automation, system configuration, cloud computing, and web development. I thrive on building tools that solve real-world problems and streamline complex workflows.
 
+I enjoy diving into challenges, optimizing processes, and continuously learning across different tech stacks and platforms. Whether it's automating a tedious task or deploying a scalable system, I’m driven by the desire to make things work better and more efficiently.
+
+Curious by nature and always open to new ideas, I stay adaptable in an ever-evolving tech landscape—excited not just by the technology itself, but by its potential to make a meaningful impact.
 <!--
 **satnam72/satnam72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,16 +22,88 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## GitHub Statistics
- 
+
+
+## 💡 Skills
+
+### Programming & Scripting
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C# logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40" title="PowerShell logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" title="Dart logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript logo"/>&nbsp;&nbsp;&nbsp;
+
+### Web Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5 logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3 logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" title="PHP logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" title="Flutter logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" title="WordPress logo"/>&nbsp;&nbsp;&nbsp;
+
+### Cloud & DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" title="Azure logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" title="Kubernetes logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" title="Jenkins logo"/>&nbsp;&nbsp;&nbsp;
+
+### Databases & Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" title="Redis logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" title="Postman logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" title="Jira logo"/>&nbsp;&nbsp;&nbsp;
+
+### Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" title="GitHub Desktop logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="40" height="40" title="Firefox logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio Code logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" title="Android Studio logo"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma logo"/>&nbsp;&nbsp;&nbsp;
+
+<br/>
+
+
+## 📊 Github Statistics
+
+### Insight
 <p align="center">
   <a href="https://github.com/satnam72">
-    <img src="https://github-readme-stats.vercel.app/api?username=satnam72&rank_icon=github&hide=stars&show=prs_merged&custom_title=Activity+Insights"/>
-  </a>
-  <a href="https://github.com/satnam72">
-    <img src="https://streak-stats.vercel.app/?user=satnam72&card_width=450"/>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?satnam72=satnam72&rank_icon=github&hide=stars&show=prs_merged&hide_title=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=satnam72&rank_icon=github&hide=stars&show=prs_merged&hide_title=true&theme=default"
+        media="(prefers-color-scheme: light)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?satnam72=satnam72&rank_icon=github&hide=stars&show=prs_merged&hide_title=true" alt="GitHub Stats"/>
+    </picture>
   </a>
 </p>
+
+### Streak
+<p align="center">
+  <a href="https://github.com/satnam72">
+    <picture>
+      <source
+        srcset="https://streak-stats.vercel.app/?user=satnam72&card_width=450&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://streak-stats.vercel.app/?user=satnam72&card_width=450&theme=default"
+        media="(prefers-color-scheme: light)"
+      />
+      <img src="https://streak-stats.vercel.app/?user=satnam72&card_width=450" alt="GitHub Streak"/>
+    </picture>
+  </a>
+</p>
+
+
+
 
 
 
