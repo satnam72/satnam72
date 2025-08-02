@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 ### Tools
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git logo"/></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" title="GitHub Desktop logo"/></a>&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="40" height="40" title="Firefox logo"/></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio Code logo"/></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" title="Android Studio logo"/></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma logo"/></a>&nbsp;&nbsp;&nbsp;
