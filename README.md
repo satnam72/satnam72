@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" title="Kubernetes logo"/></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" title="Jenkins logo"/></a>&nbsp;&nbsp;&nbsp;
 
-### Databases & Tools
+### Databases 
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL logo"/></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" title="Redis logo"/></a>&nbsp;&nbsp;&nbsp;
 
