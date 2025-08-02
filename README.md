@@ -50,9 +50,6 @@ Here are some ideas to get you started:
 ### Databases & Tools
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL logo"/></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" title="Redis logo"/></a>&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" title="Postman logo"/></a>&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub logo"/></a>&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" title="Jira logo"/></a>&nbsp;&nbsp;&nbsp;
 
 ### Tools
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git logo"/></a>&nbsp;&nbsp;&nbsp;
@@ -61,6 +58,8 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio Code logo"/></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" title="Android Studio logo"/></a>&nbsp;&nbsp;&nbsp;
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma logo"/></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" title="Postman logo"/></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" title="Jira logo"/></a>&nbsp;&nbsp;&nbsp;
 
 <br/>
 
