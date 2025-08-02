@@ -77,7 +77,7 @@ Here are some ideas to get you started:
         srcset="https://github-readme-stats.vercel.app/api?username=satnam72&rank_icon=github&hide=stars&show=prs_merged&hide_title=true&theme=default"
         media="(prefers-color-scheme: light)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?satnam72=satnam72&rank_icon=github&hide=stars&show=prs_merged&hide_title=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=satnam72&rank_icon=github&hide=stars&show=prs_merged&hide_title=true" alt="GitHub Stats"/>
     </picture>
   </a>
 </p>
@@ -87,11 +87,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/satnam72">
     <picture>
       <source
-        srcset="https://streak-stats.vercel.app/?username=satnam72&card_width=450&theme=dark"
+        srcset="https://streak-stats.vercel.app/?user=satnam72&card_width=450&theme=dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://streak-stats.vercel.app/?username=satnam72&card_width=450&theme=default"
+        srcset="https://streak-stats.vercel.app/?user=satnam72&card_width=450&theme=default"
         media="(prefers-color-scheme: light)"
       />
       <img src="https://streak-stats.vercel.app/?user=satnam72&card_width=450" alt="GitHub Streak"/>
