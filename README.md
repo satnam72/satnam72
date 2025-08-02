@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/satnam72">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?satnam72=satnam72&rank_icon=github&hide=stars&show=prs_merged&hide_title=true&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api?username=satnam72&rank_icon=github&hide=stars&show=prs_merged&hide_title=true&theme=dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
