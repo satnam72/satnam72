@@ -64,23 +64,6 @@ Here are some ideas to get you started:
 
 ## 📊 Github Statistics
 
-### Insight
-<p align="center">
-  <a href="https://github.com/satnam72">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=satnam72&rank_icon=github&hide=stars&show=prs_merged&hide_title=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=satnam72&rank_icon=github&hide=stars&show=prs_merged&hide_title=true&theme=default"
-        media="(prefers-color-scheme: light)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=satnam72&rank_icon=github&hide=stars&show=prs_merged&hide_title=true" alt="GitHub Stats"/>
-    </picture>
-  </a>
-</p>
-
 ### Streak
 <p align="center">
   <a href="https://github.com/satnam72">
